@@ -1,0 +1,8 @@
+C:\Users\Jitem\Desktop\C# Denemeler\Alarm2\Alarm2\bin\Debug\Alarm2.exe.config
+C:\Users\Jitem\Desktop\C# Denemeler\Alarm2\Alarm2\bin\Debug\Alarm2.exe
+C:\Users\Jitem\Desktop\C# Denemeler\Alarm2\Alarm2\bin\Debug\Alarm2.pdb
+C:\Users\Jitem\Desktop\C# Denemeler\Alarm2\Alarm2\obj\Debug\Alarm2.Form1.resources
+C:\Users\Jitem\Desktop\C# Denemeler\Alarm2\Alarm2\obj\Debug\Alarm2.Properties.Resources.resources
+C:\Users\Jitem\Desktop\C# Denemeler\Alarm2\Alarm2\obj\Debug\Alarm2.csproj.GenerateResource.Cache
+C:\Users\Jitem\Desktop\C# Denemeler\Alarm2\Alarm2\obj\Debug\Alarm2.exe
+C:\Users\Jitem\Desktop\C# Denemeler\Alarm2\Alarm2\obj\Debug\Alarm2.pdb
